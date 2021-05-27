@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://patients:EyRZsUjk3hcWFRdY@cluster0.zp4ah.mongodb.net/patientsdb?retryWrites=true&w=majority"
+}
