@@ -14,6 +14,7 @@ const patientSchema = mongoose.Schema({
     
     //private, clinic ,research and public
     disease: String,
+    averagerecoverytime: String
     
 });
 export default mongoose.model('patient',patientSchema);
